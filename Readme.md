@@ -11,9 +11,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -103,11 +100,11 @@ Nous allons réalisé une analyse des clients qui se désabonnent du service de 
 
 1. Exécution du modèle :
 
-    Montrez comment charger le modèle formé dans le notebook et effectuer des prédictions sur de nouvelles données.
+    Lancez le script sur google colab, une fois le model est entrainé enregistré le mielleur model avec joblib.
 
 2. Visualisation avec Streamlit :
 
-    Expliquez comment vous avez intégré l'application Streamlit dans le notebook Colab pour une visualisation interactive.
+    Pour lancer l'app streamlit : streamlit run APP_streamlit.py 
 
 <!-- CONTRIBUTING -->
 ## Contributing
