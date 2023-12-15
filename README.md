@@ -108,7 +108,7 @@ Pour visualiser les données de ce projet, vous pouvez accéder à notre tableau
 
 1. Exécution du modèle :
 
-    Lancez le script sur google colab, une fois le model est entrainé enregistré le mielleur model avec joblib.
+    Lancez le script "Churn_prediction_IA.ipynb" sur google colab, une fois le model est entrainé enregistré le mielleur model avec joblib.
 
 2. Visualisation avec Streamlit :
 
