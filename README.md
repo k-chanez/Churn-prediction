@@ -1,6 +1,5 @@
 <br />
 <p align="center">
-  <a href="https://github.com/catiaspsilva/README-template">
     <img src="image.png" alt="Logo" width="500" height="230">
   </a>
 
@@ -73,6 +72,11 @@ Nous allons réalisé une analyse des clients qui se désabonnent du service de 
     Importez le jeu de données dans BigQuery en créant une table adaptée.
     Assurez-vous que les données sont correctement structurées et prêtes pour l'analyse
 
+### Data Visualization on Looker
+
+Pour visualiser les données de ce projet, vous pouvez accéder à notre tableau de bord sur [Looker Studio](https://lookerstudio.google.com/s/oICKBuEv4LY).
+
+
 ### Dependencies
 
 * Scikit-learn 0.24.2
@@ -108,7 +112,7 @@ Nous allons réalisé une analyse des clients qui se désabonnent du service de 
 
 2. Visualisation avec Streamlit :
 
-    Pour lancer l'app streamlit : streamlit run APP_streamlit.py 
+    Pour lancer l'app streamlit : streamlit run app_streamlit.py 
 
 <!-- CONTRIBUTING -->
 ## Contributing
