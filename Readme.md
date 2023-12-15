@@ -87,6 +87,10 @@ Nous allons réalisé une analyse des clients qui se désabonnent du service de 
     ```sh
     pip install streamlit==1.15.0
     ```
+* Joblib==1.0.1
+    ```sh 
+    pip install joblib==1.0.1
+    ```
 
 ### Installation
 
