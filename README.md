@@ -112,7 +112,11 @@ Pour visualiser les données de ce projet, vous pouvez accéder à notre tableau
 
 2. Visualisation avec Streamlit :
 
-    Pour lancer l'app streamlit : streamlit run app_streamlit.py 
+    Pour lancer l'app streamlit : streamlit run app_streamlit.py
+
+    Regardez [une démonstration]([lien_vers_votre_video](https://github.com/k-chanez/Churn-prediction/blob/main/demo.mov)).
+
+   
 
 <!-- CONTRIBUTING -->
 ## Contributing
