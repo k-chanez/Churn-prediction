@@ -115,8 +115,8 @@ Pour visualiser les données de ce projet, vous pouvez accéder à notre tableau
     Pour lancer l'app streamlit : streamlit run app_streamlit.py
 
     Regardez [une démonstration](demo-2.gif).
-    ![demo](https://github.com/k-chanez/Churn-prediction/assets/100592889/dd5fdbb5-2d33-4e40-b52a-903a9a83e414)
 
+![demo](https://github.com/k-chanez/Churn-prediction/assets/100592889/dd5fdbb5-2d33-4e40-b52a-903a9a83e414)
 
    
 
